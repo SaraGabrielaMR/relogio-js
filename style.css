@@ -1,0 +1,25 @@
+body{
+    background: linear-gradient(#1c1c1c, #363837, #4a4b4d, #898c91)
+    ;
+}
+
+main {
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+span{
+    font-size: 50px;
+    font-family: monospace;
+    margin: 5px;
+    padding: 17px;
+    border-radius: 5px;
+    color:green;
+}
+
+#hour, #min, #sec{
+    background-color: #fff;
+}
